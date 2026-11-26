@@ -2,7 +2,6 @@
 - ⛵️ I’m interested in music and yachting
 - 👀 I have the music project called "Ася Гурзо"
 - 👩🏻‍🚀 I've graduated in Uni as a space engineer, but never became one
-- 🌱 I’m currently learning web developing in Yandex Praktikum
 
 <!---
 involvertee/involvertee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
